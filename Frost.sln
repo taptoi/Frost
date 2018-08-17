@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostApp", "FrostApp\FrostApp.csproj", "{B3902F85-E895-47F4-9F66-DD3691D947AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3902F85-E895-47F4-9F66-DD3691D947AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3902F85-E895-47F4-9F66-DD3691D947AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3902F85-E895-47F4-9F66-DD3691D947AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3902F85-E895-47F4-9F66-DD3691D947AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057BEAA7-E202-4D50-BE64-7076CEF73ECD}
+	EndGlobalSection
+EndGlobal
